@@ -1,5 +1,5 @@
 # credit-risk-classification
-https://github.com/olivemckenzie2003/credit-risk-classification/files/11057511/ReadMe.for.challenge.20.homework.docx
+[ReadMe for challenge 20 homework.docx](https://github.com/olivemckenzie2003/credit-risk-classification/files/11057660/ReadMe.for.challenge.20.homework.docx)
 
 Report
 

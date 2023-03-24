@@ -10,7 +10,7 @@ Overview of the Analysis
 The purpose of this analysis is to predict from a given data set of 77537 records if a loan was healthy or of high risk. 75036 records were safe loans and 2500 were high risk loans.  The data set contained eight columns which were as follows: 
 loan size, interest rate, borrower income, debt to income ratio, number of accounts, derogatory marks, total debt and loan status.
 
-Various techniques were used to train and evaluate the dataset of a historical lending activity from a peer-to-peer lending services company.
+Various techniques were used to train and evaluate the dataset of a historical lending activity from a  lending services company.
 The analysis completed for the machine learning models used in this Challenge were as follows:
 
 ![split](https://user-images.githubusercontent.com/115945473/227413883-8edf75e2-4cd8-44fc-8113-ab03a306f2b8.jpg)
